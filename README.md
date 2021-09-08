@@ -1,5 +1,3 @@
 # Matt Oliver
 
-👋
-
-Portfolio: https://mattoliver.xyz
+👋 https://mattoliver.xyz
