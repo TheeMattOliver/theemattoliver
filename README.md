@@ -2,6 +2,6 @@
 
 👋  
 
-Currently working as a design systems engineer.
+Currently working as a design systems lead.
 
 https://mattoliver.xyz
